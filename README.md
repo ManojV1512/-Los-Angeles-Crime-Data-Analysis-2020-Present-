@@ -65,29 +65,9 @@ This project explores crime data from the **Los Angeles Police Department (LAPD)
 - **Matplotlib / Seaborn**
 - **Jupyter Notebook**
 
----
 
-## 📌 How to Run
 
-1. Clone this repository
-2. Install dependencies:  
-   `pip install pandas matplotlib`
-3. Open the `.ipynb` file using Jupyter Notebook or VS Code
-4. Download the LAPD crime dataset from data.gov and update the file path
 
----
 
-## 📁 Repository Structure
 
-```bash
-├── Crime_Analysis_LAPD.ipynb      # Main Jupyter Notebook
-├── README.md                      # Project summary
-└── Crime_Data_from_2020_to_Present.csv  # Dataset (not included – download separately)
-```
 
----
-
-## 📍 Author
-
-**[Your Name]**  
-Python Data Analyst | GitHub: [@your_username](https://github.com/your_username)
